@@ -1,0 +1,29 @@
+/********** start default */
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show > .nav-link,
+.dropdown-item:focus,
+.dropdown-item:hover,
+.carousel-indicators .active,
+.option-box .color-option ul li,
+.option-box .gear-check {
+  background: red;
+}
+.navbar-dark .navbar-brand span,
+.about h1 span,
+.testimonials span,
+.footer .copyright span,
+.footer h3 {
+  color: red;
+}
+.dropdown-menu {
+  border-top: 3px solid red;
+}
+
+.option-box .color-option {
+  border: 2px solid red;
+}
+
+.testimonials .carousel-indicators button.active {
+  border: 2px solid red;
+}
